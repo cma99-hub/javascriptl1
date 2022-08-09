@@ -35,4 +35,51 @@ body{
     margin: 100px auto;
 }
 
+/* @media print{ */
+
+    /* 
+    .noprintt{
+        display: none;
+    } 
+    */
+
+    /* *{
+        visibility: hidden;
+    }
+
+    .printarea *{
+        visibility: visible;
+    } */
+
+    /* .header{
+        position: static; */
+        /* show element with position: absolute only once */
+    /* }
+
+    .pagebreak{
+        page-break-before: always */
+        /* page-break-after: always; */
+
+        /* break the page after/before this parapraph */
+    /* }
+
+} */
+
+/* @page{ */
+    /* size: portrait; */
+    /* size: landscape; */
+
+    /* default - let user manual */
+    /* size: auto; */ 
+
+    /* size: A4; */
+    /* size: A4 landscape; */
+    /* size: legal;
+
+    size: 4in 6in;
+
+    margin: 0;
+} */
+
 /* 8JS */
+/* 9PT */
