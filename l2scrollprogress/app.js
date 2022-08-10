@@ -16,7 +16,7 @@ function scrollpoint(){
 
     var calcheight = getscrollheight - getclientheight;
 
-    // var getfinal = Math.round(getscrolltop * 100) / calcheight;
+    // var getfinal = Math.round((getscrolltop * 100) / calcheight);
     // // console.log(getfinal);
 
     var getfinal = Math.round((getscrolltop/calcheight) * 100);
